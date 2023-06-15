@@ -1,0 +1,7 @@
+<suite name = "suite" parallel="methods" thread-count = "2">
+    <test name = "test suite">
+        <classes>
+            <class name = "TestShoppingCart"/>
+        </classes>
+    </test>
+</suite>
